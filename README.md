@@ -55,6 +55,11 @@ Linux &check;
 ![](https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/screenshots/ss.png)
 A custom system info fetching tool
 
+[screenFetch](https://github.com/KittyKatt/screenFetch)
+![](https://img.shields.io/github/stars/KittyKatt/screenFetch?label=Stars%20&style=flat-square)
+&ensp;
+Linux &check;
+
 ---
 [sysfetch](https://github.com/wick3dr0se/sysfetch)  
 ![](https://img.shields.io/github/stars/wick3dr0se/sysfetch?label=Stars%20&style=flat-square)
@@ -102,7 +107,14 @@ Linux &check; BSD &check; Mac &check; Win &check;
 </div></details>
 
 ### Compiled
-<details markdown='1'><summary>C: 2</summary><div align="center">
+<details markdown='1'><summary>C: 3</summary><div align="center">
+
+[afetch](https://github.com/13-CF/afetch)  
+![](https://img.shields.io/github/stars/13-CF/afetch?label=Stars%20&style=flat-square)
+&ensp;
+Linux &check; BSD &check; Mac &check;
+![](https://raw.githubusercontent.com/13-CF/afetch/master/img/logo.png)
+Simple system info written in C
 
 [cpufetch](https://github.com/Dr-Noob/cpufetch)  
 ![](https://img.shields.io/github/stars/Dr-Noob/cpufetch?label=Stars%20&style=flat-square)
@@ -134,7 +146,7 @@ Another system information fetching tool written in C++
 &ensp;
 Linux &check;
 ![image](https://user-images.githubusercontent.com/79412062/192159166-1f0f84b7-7c8b-4600-b1f3-09586b15875a.png)
-tfetch is a system fetch tool written with C++.
+tfetch is a system fetch tool written with C++
 </div></details>
 
 <details markdown='1'><summary>Go — Golang: 1</summary><div align="center">
@@ -175,4 +187,4 @@ Linux &check; BSD &check; Mac &check; Win &check;
 A system information frontend, with an (unhealthy) emphasis on performance
 </div></details>
 
-> :information_source: _19 fetch utilities written in 10 different programming languages_
+> :information_source: _20 fetch utilities written in 10 different programming languages_
