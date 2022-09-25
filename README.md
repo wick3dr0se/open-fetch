@@ -84,7 +84,7 @@ Win &check;
 🛠 A command-line system information utility written in PowerShell
 </div></details>
 
-<details markdown='1'><summary>Python: 1</summary><div align="center">
+<details markdown='1'><summary>Python: 2</summary><div align="center">
 
 [archey4](https://github.com/HorlogeSkynet/archey4)  
 ![](https://img.shields.io/github/stars/HorlogeSkynet/archey4?label=Stars%20&style=flat-square)
@@ -92,6 +92,13 @@ Win &check;
 Linux &check; BSD &check; Mac &check; Win &check;
 ![](https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30) 
 💻 Maintained fork of the original Archey (Linux) system tool
+
+[hyfetch](https://github.com/hykilpikonna/hyfetch)  
+![](https://img.shields.io/github/stars/hykilpikonna/hyfetch?label=Stars%20&style=flat-square)
+&ensp;
+Linux &check; BSD &check; Mac &check; Win &check;
+![](https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png)
+
 </div></details>
 
 ### Compiled
@@ -168,4 +175,4 @@ Linux &check; BSD &check; Mac &check; Win &check;
 A system information frontend, with an (unhealthy) emphasis on performance
 </div></details>
 
-> :information_source: _18 fetch utilities written in 10 different programming languages_
+> :information_source: _19 fetch utilities written in 10 different programming languages_
