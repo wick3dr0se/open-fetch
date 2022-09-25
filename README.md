@@ -93,7 +93,7 @@ Linux &check; BSD &check; Mac &check;
 Like neofetch, but much faster because written in C
 </div></details>
 
-<details markdown='1'><summary>C++ — C Plus Plus: 1</summary><div align="center">
+<details markdown='1'><summary>C++ — C Plus Plus: 2</summary><div align="center">
 
 [sysfex](https://github.com/mehedirm6244/sysfex)  
 ![](https://img.shields.io/github/stars/mehedirm6244/sysfex?label=Stars%20&style=flat-square)
