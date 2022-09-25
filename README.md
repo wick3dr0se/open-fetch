@@ -103,7 +103,7 @@ Linux &check; BSD &check; Mac &check; Win &check;
 </div></details>
 
 ### Compiled
-<details markdown='1'><summary>C: 4</summary><div align="center">
+<details markdown='1'><summary>C: 5</summary><div align="center">
 
 [afetch](https://github.com/13-CF/afetch)  
 ![](https://img.shields.io/github/stars/13-CF/afetch?label=Stars%20&style=flat-square)
@@ -113,12 +113,12 @@ Linux &check; BSD &check; Mac &check;
 Simple system info written in C
 
 ---
-[albafetch](https://github.com/alba4k/albafetch)
+[albafetch](https://github.com/alba4k/albafetch)  
 ![](https://img.shields.io/github/stars/alba4k/albafetch?label=Stars%20&style=flat-square)
 &ensp;
 Linux &check; Mac &check;
 ![](https://raw.githubusercontent.com/alba4k/albafetch/master/images/albafetch_demo.png)
-Faster neofetch alternative, written in C. 
+Faster neofetch alternative, written in C
 
 ---
 [cpufetch](https://github.com/Dr-Noob/cpufetch)  
@@ -135,6 +135,14 @@ Simple yet fancy CPU architecture fetching tool
 Linux &check; BSD &check; Mac &check;
 ![](https://raw.githubusercontent.com/LinusDierheimer/fastfetch/master/screenshots/example3.png)
 Like neofetch, but much faster because written in C
+
+---
+[paleofetch](https://github.com/ss7m/paleofetch)  
+![](https://img.shields.io/github/stars/ss7m/paleofetch?label=Stars%20&style=flat-square)
+&ensp;
+Linux &check;
+![](https://raw.githubusercontent.com/ss7m/paleofetch/master/example.png)
+neofetch, but written in C
 </div></details>
 
 <details markdown='1'><summary>C++ — C Plus Plus: 2</summary><div align="center">
@@ -193,4 +201,4 @@ Linux &check; BSD &check; Mac &check; Win &check;
 A system information frontend, with an (unhealthy) emphasis on performance
 </div></details>
 
-> :information_source: _21 fetch utilities written in 10 different languages_
+> :information_source: _22 fetch utilities written in 10 different languages_
