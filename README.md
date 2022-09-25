@@ -172,4 +172,4 @@ Linux &check; BSD &check; Mac &check; Win &check;
 A system information frontend, with an (unhealthy) emphasis on performance
 </div></details>
 
-> :information_source: _17 fetch utilities written in 10 different programming languages_.
+> :information_source: _18 fetch utilities written in 10 different programming languages_.
