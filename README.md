@@ -4,9 +4,9 @@ An awesome(ly) curated list of open-source system information fetch utilities
 
 ---
 ### Scripts
-<details markdown='1'><summary>sh — Bourne Shell: 5</summary><div align="center">
+<details markdown='1'><summary>sh — Bourne Shell: 4</summary><div align="center">
 
-[bfetch](https://github.com/NNBnh/bfetch)  
+[bfetch](https://github.com/NNBnh/bfetch) — system information  
 ![](https://img.shields.io/github/stars/NNBnh/bfetch?label=Stars%20&style=flat-square)
 &ensp;
 Linux &check;
@@ -36,14 +36,6 @@ A POSIX *nix fetch script using Nerdfonts
 Linux &check; BSD &check; Mac &check; Win &check;
 ![](https://user-images.githubusercontent.com/6799467/65944518-68834d80-e421-11e9-9b14-6ca26a16108a.png)
 A pretty information fetch tool written in POSIX sh
-
----
-[ufetch](https://gitlab.com/jschx/ufetch)  
-![](https://img.shields.io/gitlab/stars/jschx/ufetch?label=Stars%20&style=flat-square)
-&ensp;
-Linux &check; BSD &check; Mac &check;
-![](https://user-content.gitlab-static.net/c288e84e062ab47e64d82e4e95796b8c4896fadb/68747470733a2f2f6a736368782e6769746c61622e696f2f696d616765732f7566657463682e706e67)
-Tiny system info for Unix-like operating systems
 </div></details>
 
 <details markdown='1'><summary>BASH — Bourne Again SHell: 3</summary><div align="center">
@@ -70,16 +62,6 @@ A custom system info fetching tool
 Linux &check;
 ![](https://raw.githubusercontent.com/wick3dr0se/sysfetch/master/screen.png)
 A super tiny system information fetch script
-</div></details>
-
-<details markdown='1'><summary>Perl: 1</summary><div align="center">
-
-[fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000)  
-![](https://img.shields.io/github/stars/anhsirk0/fetch-master-6000?label=Stars%20&style=flat-square)
-&ensp;
-Linux &check; Mac &check;
-![](https://raw.githubusercontent.com/anhsirk0/fetch-master-6000/master/screenshots/all1.png)
-Simple Dilbert themed system info-fetching tool
 </div></details>
 
 <details markdown='1'><summary>PowerShell: 1</summary><div align="center">
@@ -141,6 +123,16 @@ Linux &check;
 nitch - incredibly fast system fetch written in nim
 </div></details>
 
+<details markdown='1'><summary>Perl: 1</summary><div align="center">
+
+[fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000)  
+![](https://img.shields.io/github/stars/anhsirk0/fetch-master-6000?label=Stars%20&style=flat-square)
+&ensp;
+Linux &check; Mac &check;
+![](https://raw.githubusercontent.com/anhsirk0/fetch-master-6000/master/screenshots/all1.png)
+Simple Dilbert themed system info-fetching tool
+</div></details>
+
 <details markdown='1'><summary>Python: 1</summary><div align="center">
 
 [archey4](https://github.com/HorlogeSkynet/archey4)  
@@ -170,4 +162,4 @@ Linux &check; BSD &check; Mac &check; Win &check;
 A system information frontend, with an (unhealthy) emphasis on performance
 </div></details>
 
-> :information_source: _18 fetch utilities written in 10 different languages_
+> :information_source: _17 fetch utilities written in 10 different programming languages_.
