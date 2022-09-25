@@ -93,6 +93,7 @@ Linux &check; BSD &check; Mac &check; Win &check;
 ![](https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30) 
 💻 Maintained fork of the original Archey (Linux) system tool
 
+---
 [hyfetch](https://github.com/hykilpikonna/hyfetch)  
 ![](https://img.shields.io/github/stars/hykilpikonna/hyfetch?label=Stars%20&style=flat-square)
 &ensp;
@@ -102,7 +103,7 @@ Linux &check; BSD &check; Mac &check; Win &check;
 </div></details>
 
 ### Compiled
-<details markdown='1'><summary>C: 3</summary><div align="center">
+<details markdown='1'><summary>C: 4</summary><div align="center">
 
 [afetch](https://github.com/13-CF/afetch)  
 ![](https://img.shields.io/github/stars/13-CF/afetch?label=Stars%20&style=flat-square)
@@ -111,6 +112,15 @@ Linux &check; BSD &check; Mac &check;
 ![](https://raw.githubusercontent.com/13-CF/afetch/master/img/logo.png)
 Simple system info written in C
 
+---
+[albafetch](https://github.com/alba4k/albafetch)
+![](https://img.shields.io/github/stars/alba4k/albafetch?label=Stars%20&style=flat-square)
+&ensp;
+Linux &check; Mac &check;
+![](https://raw.githubusercontent.com/alba4k/albafetch/master/images/albafetch_demo.png)
+Faster neofetch alternative, written in C. 
+
+---
 [cpufetch](https://github.com/Dr-Noob/cpufetch)  
 ![](https://img.shields.io/github/stars/Dr-Noob/cpufetch?label=Stars%20&style=flat-square)
 &ensp;
@@ -136,6 +146,7 @@ Linux &check;
 ![](https://raw.githubusercontent.com/mehedirm6244/sysfex/main/res/sysf_1.png)
 Another system information fetching tool written in C++
 
+---
 [tfetch](https://github.com/keremgokcek/tfetch)  
 ![](https://img.shields.io/github/stars/keremgokcek/tfetch?label=Stars%20&style=flat-square)
 &ensp;
