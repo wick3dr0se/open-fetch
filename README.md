@@ -3,7 +3,7 @@ An awesome(ly) curated list of open-source system information fetch utilities
 </div>
 
 ---
-### Scripts
+### Interpreted
 <details markdown='1'><summary>sh — Bourne Shell: 4</summary><div align="center">
 
 [bfetch](https://github.com/NNBnh/bfetch) — system information  
@@ -33,7 +33,7 @@ A POSIX *nix fetch script using Nerdfonts
 [pfetch](https://github.com/dylanaraps/pfetch)  
 ![](https://img.shields.io/github/stars/dylanaraps/pfetch?label=Stars%20&style=flat-square)
 &ensp;
-Linux &check; BSD &check; Mac &check; Win &check;
+Linux &check; BSD &check; Mac &check; WSL &check;
 ![](https://user-images.githubusercontent.com/6799467/65944518-68834d80-e421-11e9-9b14-6ca26a16108a.png)
 A pretty information fetch tool written in POSIX sh
 </div></details>
@@ -64,6 +64,16 @@ Linux &check;
 A super tiny system information fetch script
 </div></details>
 
+<details markdown='1'><summary>Perl: 1</summary><div align="center">
+
+[fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000)  
+![](https://img.shields.io/github/stars/anhsirk0/fetch-master-6000?label=Stars%20&style=flat-square)
+&ensp;
+Linux &check; Mac &check;
+![](https://raw.githubusercontent.com/anhsirk0/fetch-master-6000/master/screenshots/all1.png)
+Simple Dilbert themed system info-fetching tool
+</div></details>
+
 <details markdown='1'><summary>PowerShell: 1</summary><div align="center">
 
 [winfetch](https://github.com/kiedtl/winfetch)  
@@ -74,7 +84,17 @@ Win &check;
 🛠 A command-line system information utility written in PowerShell
 </div></details>
 
-### Programs
+<details markdown='1'><summary>Python: 1</summary><div align="center">
+
+[archey4](https://github.com/HorlogeSkynet/archey4)  
+![](https://img.shields.io/github/stars/HorlogeSkynet/archey4?label=Stars%20&style=flat-square)
+&ensp;
+Linux &check; BSD &check; Mac &check; Win &check;
+![](https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30) 
+💻 Maintained fork of the original Archey (Linux) system tool
+</div></details>
+
+### Compiled
 <details markdown='1'><summary>C: 2</summary><div align="center">
 
 [cpufetch](https://github.com/Dr-Noob/cpufetch)  
@@ -102,14 +122,11 @@ Linux &check;
 ![](https://raw.githubusercontent.com/mehedirm6244/sysfex/main/res/sysf_1.png)
 Another system information fetching tool written in C++
 
----
 [tfetch](https://github.com/keremgokcek/tfetch)  
 ![](https://img.shields.io/github/stars/keremgokcek/tfetch?label=Stars%20&style=flat-square)
 &ensp;
 Linux &check;
-
 ![image](https://user-images.githubusercontent.com/79412062/192159166-1f0f84b7-7c8b-4600-b1f3-09586b15875a.png)
-
 tfetch is a system fetch tool written with C++.
 </div></details>
 
@@ -133,27 +150,6 @@ Linux &check;
 nitch - incredibly fast system fetch written in nim
 </div></details>
 
-<details markdown='1'><summary>Perl: 1</summary><div align="center">
-
-[fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000)  
-![](https://img.shields.io/github/stars/anhsirk0/fetch-master-6000?label=Stars%20&style=flat-square)
-&ensp;
-Linux &check; Mac &check;
-![](https://raw.githubusercontent.com/anhsirk0/fetch-master-6000/master/screenshots/all1.png)
-Simple Dilbert themed system info-fetching tool
-</div></details>
-
-<details markdown='1'><summary>Python: 1</summary><div align="center">
-
-[archey4](https://github.com/HorlogeSkynet/archey4)  
-![](https://img.shields.io/github/stars/HorlogeSkynet/archey4?label=Stars%20&style=flat-square)
-&ensp;
-Linux &check; BSD &check; Mac &check; Win &check;
-![](https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30) 
-💻 Maintained fork of the original Archey (Linux) system tool
-
-</div></details>
-
 <details markdown='1'><summary>Rust: 2</summary><div align="center">
 
 [freshfetch](https://github.com/K4rakara/freshfetch)  
@@ -172,4 +168,4 @@ Linux &check; BSD &check; Mac &check; Win &check;
 A system information frontend, with an (unhealthy) emphasis on performance
 </div></details>
 
-> :information_source: _18 fetch utilities written in 10 different programming languages_.
+> :information_source: _18 fetch utilities written in 10 different programming languages_
