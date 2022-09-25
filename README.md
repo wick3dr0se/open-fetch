@@ -102,7 +102,7 @@ Linux &check; BSD &check; Mac &check; Win &check;
 </div></details>
 
 ### Compiled
-<details markdown='1'><summary>C: 3</summary><div align="center">
+<details markdown='1'><summary>C: 4</summary><div align="center">
 
 [afetch](https://github.com/13-CF/afetch)  
 ![](https://img.shields.io/github/stars/13-CF/afetch?label=Stars%20&style=flat-square)
@@ -110,6 +110,17 @@ Linux &check; BSD &check; Mac &check; Win &check;
 Linux &check; BSD &check; Mac &check;
 ![](https://raw.githubusercontent.com/13-CF/afetch/master/img/logo.png)
 Simple system info written in C
+
+---
+
+[albafetch](https://github.com/alba4k/albafetch)
+![](https://img.shields.io/github/stars/alba4k/albafetch?label=Stars%20&style=flat-square)
+&ensp;
+Linux &check; Mac &check;
+![](https://raw.githubusercontent.com/alba4k/albafetch/master/images/albafetch_demo.png)
+Faster neofetch alternative, written in C. 
+
+---
 
 [cpufetch](https://github.com/Dr-Noob/cpufetch)  
 ![](https://img.shields.io/github/stars/Dr-Noob/cpufetch?label=Stars%20&style=flat-square)
@@ -119,6 +130,7 @@ Linux &check; BSD &check; Mac &check; Win &check;
 Simple yet fancy CPU architecture fetching tool
 
 ---
+
 [fastfetch](https://github.com/LinusDierheimer/fastfetch)  
 ![](https://img.shields.io/github/stars/LinusDierheimer/fastfetch?label=Stars%20&style=flat-square)
 &ensp;
