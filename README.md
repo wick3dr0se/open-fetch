@@ -6,7 +6,7 @@ An awesome(ly) curated list of open-source system information fetch utilities
 ### Interpreted
 <details markdown='1'><summary>sh — Bourne Shell: 4</summary><div align="center">
 
-[bfetch](https://github.com/NNBnh/bfetch) — system information  
+[bfetch](https://github.com/NNBnh/bfetch)  
 ![](https://img.shields.io/github/stars/NNBnh/bfetch?label=Stars%20&style=flat-square)
 &ensp;
 Linux &check;
