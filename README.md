@@ -55,11 +55,6 @@ Linux &check;
 ![](https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/screenshots/ss.png)
 A custom system info fetching tool
 
-[screenFetch](https://github.com/KittyKatt/screenFetch)
-![](https://img.shields.io/github/stars/KittyKatt/screenFetch?label=Stars%20&style=flat-square)
-&ensp;
-Linux &check;
-
 ---
 [sysfetch](https://github.com/wick3dr0se/sysfetch)  
 ![](https://img.shields.io/github/stars/wick3dr0se/sysfetch?label=Stars%20&style=flat-square)
