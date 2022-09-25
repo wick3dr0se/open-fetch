@@ -90,9 +90,7 @@ Simple Dilbert themed system info-fetching tool
 Win &check;
 ![](https://user-images.githubusercontent.com/46838874/109414247-f75e1600-79d7-11eb-90ea-d28d417b1654.png)
 🛠 A command-line system information utility written in PowerShell
-</div></details>  
-
-> :information_source: _10 fetch scripts, written in 4 different shell scripting languages_`
+</div></details>
 
 ### Programs
 <details markdown='1'><summary>C: 2</summary><div align="center">
@@ -172,4 +170,4 @@ Linux &check; BSD &check; Mac &check; Win &check;
 A system information frontend, with an (unhealthy) emphasis on performance
 </div></details>
 
-> :information_source: _8 fetch programs written in 6 different programming languages_
+> :information_source: _18 fetch utilities written in 10 different languages_
