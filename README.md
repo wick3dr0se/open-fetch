@@ -38,7 +38,7 @@ Linux &check; BSD &check; Mac &check; WSL &check;
 A pretty information fetch tool written in POSIX sh
 </div></details>
 
-<details markdown='1'><summary>BASH — Bourne Again SHell: 3</summary><div align="center">
+<details markdown='1'><summary>BASH — Bourne Again SHell: 4</summary><div align="center">
 
 [neofetch](https://github.com/dylanaraps/neofetch)  
 ![](https://img.shields.io/github/stars/dylanaraps/neofetch?label=Stars%20&style=flat-square)
@@ -54,6 +54,13 @@ Linux &check; BSD &check; Mac &check; Win &check;
 Linux &check;
 ![](https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/screenshots/ss.png)
 A custom system info fetching tool
+
+---
+[screenFetch](https://github.com/KittyKatt/screenFetch)  
+![](https://img.shields.io/github/stars/KittyKatt/screenFetch?label=Stars%20&style=flat-square)
+&ensp;
+![](https://raw.githubusercontent.com/joaorobertopb/screenfetch/master/img/screenfetch-wsl.png)
+The Bash Screenshot Information Tool
 
 ---
 [sysfetch](https://github.com/wick3dr0se/sysfetch)  
@@ -201,4 +208,4 @@ Linux &check; BSD &check; Mac &check; Win &check;
 A system information frontend, with an (unhealthy) emphasis on performance
 </div></details>
 
-> :information_source: _22 fetch utilities written in 10 different languages_
+> :information_source: _23 fetch utilities written in 10 different languages_
