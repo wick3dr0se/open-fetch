@@ -98,7 +98,7 @@ Linux &check; BSD &check; Mac &check; Win &check;
 &ensp;
 Linux &check; BSD &check; Mac &check; Win &check;
 ![](https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png)
-
+🖼️ 🏳️‍⚧️ Neofetch with LGBTQ pride flags!
 </div></details>
 
 ### Compiled
