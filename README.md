@@ -59,6 +59,7 @@ A custom system info fetching tool
 [screenFetch](https://github.com/KittyKatt/screenFetch)  
 ![](https://img.shields.io/github/stars/KittyKatt/screenFetch?label=Stars%20&style=flat-square)
 &ensp;
+Linux &check; BSD &check; Mac &check;
 ![](https://raw.githubusercontent.com/joaorobertopb/screenfetch/master/img/screenfetch-wsl.png)
 The Bash Screenshot Information Tool
 
@@ -96,7 +97,7 @@ Win &check;
 [archey4](https://github.com/HorlogeSkynet/archey4)  
 ![](https://img.shields.io/github/stars/HorlogeSkynet/archey4?label=Stars%20&style=flat-square)
 &ensp;
-Linux &check; BSD &check; Mac &check; Win &check;
+Linux &check; BSD &check; Mac &check; WSL &check;
 ![](https://camo.githubusercontent.com/2ed9dd62bafd5b58e6e034accd4e764c753324d4d7ccf1e385a2fb1834f76d40/68747470733a2f2f626c6f672e73616d75656c2e646f6d61696e732f696d672f626c6f672f7468652d6172636865792d70726f6a6563742d776861742d692d76652d646563696465642d746f2d646f2e706e673f76342e31342e302e30) 
 💻 Maintained fork of the original Archey (Linux) system tool
 
