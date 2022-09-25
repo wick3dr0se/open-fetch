@@ -93,7 +93,7 @@ Linux &check; BSD &check; Mac &check;
 Like neofetch, but much faster because written in C
 </div></details>
 
-<details markdown='1'><summary>C++ — C Plus Plus: 1</summary><div align="center">
+<details markdown='1'><summary>C++ — C Plus Plus: 2</summary><div align="center">
 
 [sysfex](https://github.com/mehedirm6244/sysfex)  
 ![](https://img.shields.io/github/stars/mehedirm6244/sysfex?label=Stars%20&style=flat-square)
@@ -101,6 +101,16 @@ Like neofetch, but much faster because written in C
 Linux &check;
 ![](https://raw.githubusercontent.com/mehedirm6244/sysfex/main/res/sysf_1.png)
 Another system information fetching tool written in C++
+
+---
+[tfetch](https://github.com/keremgokcek/tfetch)  
+![](https://img.shields.io/github/stars/keremgokcek/tfetch?label=Stars%20&style=flat-square)
+&ensp;
+Linux &check;
+
+![image](https://user-images.githubusercontent.com/79412062/192159166-1f0f84b7-7c8b-4600-b1f3-09586b15875a.png)
+
+tfetch is a system fetch tool written with C++.
 </div></details>
 
 <details markdown='1'><summary>Go — Golang: 1</summary><div align="center">
@@ -162,4 +172,4 @@ Linux &check; BSD &check; Mac &check; Win &check;
 A system information frontend, with an (unhealthy) emphasis on performance
 </div></details>
 
-> :information_source: _17 fetch utilities written in 10 different programming languages_.
+> :information_source: _18 fetch utilities written in 10 different programming languages_.
