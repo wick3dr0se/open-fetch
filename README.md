@@ -39,7 +39,7 @@ Software | Hardware
 <sup>Linux &check; Mac &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, OS, kernel, pkgs, uptime</sub> | <sub>RAM</sub>
 
 ---
@@ -50,7 +50,7 @@ Software | Hardware
 <sup>Linux &check; BSD &check; Mac &check; WSL &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, OS, host, kernel, uptime, pkgs</sub> | <sub>RAM</sub>
 
 ---
@@ -67,7 +67,7 @@ Software | Hardware
 <sup>Linux &check; BSD &check; Mac &check; Win &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, OS, kernel, uptime, packages, shell, resolution, DE/WM, theme, icons, terminal, font</sub> | <sub>mobo, CPU, GPU, RAM</sub>
 
 ---
@@ -78,7 +78,7 @@ Software | Hardware
 <sup>Linux &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>OS, kernel, packages, shell, init, DE/WM, uptime</sub> | <sub>RAM, disk</sub>
 
 ---
@@ -89,7 +89,7 @@ Software | Hardware
 <sup>Linux &check; BSD &check; Mac &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, OS, kernel, uptime, pkgs, shell</sub> | <sub>CPU, RAM</sub>
 
 ---
@@ -100,7 +100,7 @@ Software | Hardware
 <sup>Linux &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, uptime, OS, arch, kernel, term, shell, DE/WM, theme, pkgs</sub> | <sub>CPU, GPU, mobo, disk, RAM</sub>
 
 ---
@@ -116,9 +116,9 @@ Software | Hardware
 ![](https://img.shields.io/github/stars/anhsirk0/fetch-master-6000?style=social) &ensp;
 <sup>Linux &check; Mac &check;</sup>
 
-Software
+Software |
 ---|
-<sub>OS, kernel, DE, shell, uptime, pkgs</sub>
+<sub>OS, kernel, DE, shell, uptime, pkgs</sub> |
 
 ---
 </div></details>
@@ -134,7 +134,7 @@ Software
 <sup>Win &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, OS, kernel, uptime, pkgs, shell, resolution, term</sub> | <sub>CPU, GPU, RAM, disk, battery</sub>
 
 ---
@@ -151,7 +151,7 @@ Software | Hardware
 <sup>Linux &check; BSD &check; Mac &check; WSL &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, OS, kernel, uptime, processes, DE/WM, shell, term, pkgs, IP</sub> | <sub>mobo, loads, temps, CPU, GPU, RAM, disk</sub>
 
 ---
@@ -162,7 +162,7 @@ Software | Hardware
 <sup>Linux &check; BSD &check; Mac &check; Win &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, OS, kernel, uptime, pkgs, shell, resolution, DE/WM, theme, icons, term</sub> | <sub>mobo, CPU, GPU, RAM</sub>
 
 ---
@@ -179,9 +179,9 @@ Software | Hardware
 ![](https://img.shields.io/github/stars/13-CF/afetch?style=social) &ensp;
 <sup>Linux &check; BSD &check; Mac &check;</sup>
 
-Software
+Software |
 ---|
-<sub>user, OS, kernel, uptime, shell, pkgs</sub>
+<sub>user, OS, kernel, uptime, shell, pkgs</sub> |
 
 ---
 **albafetch**  
@@ -191,7 +191,7 @@ Software
 <sup>Linux &check; Mac &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, uptime, OS, arch, kernel, WM, shell, term, pkgs</sub> | <sub>mobo, CPU, GPU, RAM</sub>
 
 ---
@@ -213,7 +213,7 @@ Hardware |
 <sup>Linux &check; BSD &check; Mac &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, OS, kernel, uptime, pkgs, shell, resolution, DE/WM, theme, icons, font, cursor, term, locale</sub> | <sub>mobo, CPU, GPU, RAM, disk, battery</sub>
 
 ---
@@ -224,7 +224,7 @@ Software | Hardware
 <sup>Linux &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, OS, kernel, uptime, pkgs, shell, resolution, term</sub> | <sub>mobo, CPU, GPU, RAM</sub>
 
 ---
@@ -241,7 +241,7 @@ Software | Hardware
 <sup>Linux &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>host, OS, kernel, DE, pkgs, shell, resolution</sub> | <sub>mobo, RAM, CPU</sub>
 
 ---
@@ -252,7 +252,7 @@ Software | Hardware
 <sup>Linux &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>OS, kernel, arch, term, uptime, resolution, shell, DE/WM</sub> | <sub>mobo, CPU, RAM</sub>
 
 ---
@@ -268,9 +268,9 @@ Software | Hardware
 ![](https://img.shields.io/github/stars/Rosettea/bunnyfetch?style=social) &ensp; 
 <sup>Linux &check; BSD &check; Mac &check;</sup>
 
-Software
+Software |
 ---|
-<sub>user, host, OS, kernel, shell, WM</sub>
+<sub>user, host, OS, kernel, shell, WM</sub> |
 
 ---
 </div></details>
@@ -286,7 +286,7 @@ Software
 <sup>Linux &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, OS, kernel, uptime, shell, pkgs</sub> | <sub>RAM</sub>
 
 ---
@@ -303,7 +303,7 @@ Software | Hardware
 <sup>Linux &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>user, host, OS, kernel, uptime, pkgs, shell, resolution, WM</sub> | <sub>CPU, GPU, RAM</sub>
 
 ---
@@ -314,7 +314,7 @@ Software | Hardware
 <sup>Linux &check; BSD &check; Mac &check; Win &check;</sup>
 
 Software | Hardware
----|
+---|---
 <sub>OS, term, shell, resolution, brightness, kernel, pkgs, IP, uptime</sub> | <sub>RAM, battery</sub>
 
 ---
