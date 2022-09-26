@@ -94,7 +94,7 @@ Software | Hardware
 
 ---
 **sysfetch**  
-`A super tiny system information fetch script`
+`A super tiny system information fetch script`  
 [<img style="height:200px;" src="https://raw.githubusercontent.com/wick3dr0se/sysfetch/master/screen.png">](https://github.com/wick3dr0se/sysfetch)  
 ![](https://img.shields.io/github/stars/wick3dr0se/sysfetch?style=social) &ensp;
 <sup>Linux &check;</sup>
