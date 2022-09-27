@@ -315,7 +315,7 @@ Software | Hardware
 <!-- end Nim -->
 
 <!-- Rust -->
-<details markdown='1'><summary>Rust: 3</summary><div align="center">
+<details markdown='1'><summary>Rust: 4</summary><div align="center">
 
 **K4rakara/freshfetch** — system  
 `A fresh take on neofetch`  
@@ -343,7 +343,6 @@ Software | Hardware
 ---
 **onefetch** — git  
 `Git repository summary in your terminal`  
-
 [<img style="height:200px;" src="https://raw.githubusercontent.com/o2sh/onefetch/main/assets/screenshot-1.png">](https://github.com/o2sh/onefetch)  
 ![](https://img.shields.io/github/stars/o2sh/onefetch?style=social) &ensp;
 ![](https://img.shields.io/github/last-commit/o2sh/onefetch?style=flat-square)  
@@ -351,13 +350,24 @@ Software | Hardware
  
 Features |
 ---|
-user, version, project, created, languages, dependencies, authors, contributors, repo, commits, SLOC, size, license | 
+<sub>user, version, project, created, languages, dependencies, authors, contributors, repo, commits, SLOC, size, license</sub> | 
  
- ---
+---
+**rsfetch** — system  
+`Fast (~1ms execution time) and somewhat(?) minimal fetch program written in Rust`  
+[<img height="200" src="https://raw.githubusercontent.com/rsfetch/rsfetch/master/Screenshots/new-logo.jpg">](https://github.com/Phate6660/rsfetch)  
+![](https://img.shields.io/github/stars/Phate6660/rsfetch?style=social) &ensp;
+![](https://img.shields.io/github/last-commit/Phate6660/rsfetch?style=flat-square)  
+<sub>Linux &check; BSD &check;</sub>
+ 
+Software |
+---|
+<sub>OS, kernel, editor, shell</sub> |
+ 
 </div></details>
 <!-- Rust -->
 
-> :information_source: _24 fetch utilities written in 10 different languages_
+> :information_source: _25 fetch utilities written in 10 different languages_
 
 ## Contributing
 Fork this repository & edit your version
