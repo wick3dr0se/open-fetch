@@ -58,7 +58,17 @@ Software | Hardware
 <!-- end sh -->
 
 <!-- BASH -->
-<details markdown='1'><summary>BASH — Bourne Again SHell: 4</summary><div align="center">
+<details markdown='1'><summary>BASH — Bourne Again SHell: 5</summary><div align="center">
+
+**cutefetch**  
+`Cute little sysinfo fetch script for use in screenshots`
+[<img style="height:200px;" src="https://user-images.githubusercontent.com/50134239/161402429-2561a87a-3a89-42d4-ad7c-cefe4ef62fa2.png"/>](https://github.com/cybardev/cutefetch)  
+![](https://img.shields.io/github/stars/cybardev/cutefetch?style=social) &ensp;
+<sup>Linux &check; Mac &check;</sup>
+
+Software |
+---|
+host, kernel, term, resolution, wifi |
 
 **neofetch**    
 `🖼️ A command-line system information tool written in bash 3.2+`  
@@ -73,7 +83,7 @@ Software | Hardware
 ---
 **rxfetch**   
 `A custom system info fetching tool`  
-[<img style="height:200px;" src="https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/screenshots/ss.png"/>](https://github.com/Mangeshrex/rxfetch)  
+[<img style="height:250px;" src="https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/screenshots/ss.png"/>](https://github.com/Mangeshrex/rxfetch)  
 ![](https://img.shields.io/github/stars/Mangeshrex/rxfetch?style=social) &ensp;
 <sup>Linux &check;</sup>
 
@@ -95,7 +105,7 @@ Software | Hardware
 ---
 **sysfetch**  
 `A super tiny system information fetch script`  
-[<img style="height:200px;" src="https://raw.githubusercontent.com/wick3dr0se/sysfetch/master/screen.png">](https://github.com/wick3dr0se/sysfetch)  
+[<img style="height:250px;" src="https://raw.githubusercontent.com/wick3dr0se/sysfetch/master/screen.png">](https://github.com/wick3dr0se/sysfetch)  
 ![](https://img.shields.io/github/stars/wick3dr0se/sysfetch?style=social) &ensp;
 <sup>Linux &check;</sup>
 
@@ -129,7 +139,7 @@ Software |
 
 **winfetch**  
 `🛠 A command-line system information utility written in PowerShell`  
-[<img style="height:200px;" src="https://user-images.githubusercontent.com/46838874/109414247-f75e1600-79d7-11eb-90ea-d28d417b1654.png">](https://github.com/kiedtl/winfetch)  
+[<img style="height:250px;" src="https://user-images.githubusercontent.com/46838874/109414247-f75e1600-79d7-11eb-90ea-d28d417b1654.png">](https://github.com/kiedtl/winfetch)  
 ![](https://img.shields.io/github/stars/kiedtl/winfetch?style=social) &ensp;
 <sup>Win &check;</sup>
 
@@ -157,7 +167,7 @@ Software | Hardware
 ---
 **hyfetch**  
 `🖼️ 🏳️‍⚧️ Neofetch with LGBTQ pride flags!`  
-[<img style="height:200px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch)  
+[<img style="height:250px;" src="https://user-images.githubusercontent.com/22280294/162614541-af2b4660-f1f7-4287-b978-1aa2266ac70f.png">](https://github.com/hykilpikonna/hyfetch)  
 ![](https://img.shields.io/github/stars/hykilpikonna/hyfetch?style=social) &ensp;
 <sup>Linux &check; BSD &check; Mac &check; Win &check;</sup>
 
@@ -175,7 +185,7 @@ Software | Hardware
 
 **afetch**  
 `Simple system info written in C`
-[<img style="height:200px;" src="https://raw.githubusercontent.com/13-CF/afetch/master/img/logo.png">](https://github.com/13-CF/afetch)  
+[<img style="height:250px;" src="https://raw.githubusercontent.com/13-CF/afetch/master/img/logo.png">](https://github.com/13-CF/afetch)  
 ![](https://img.shields.io/github/stars/13-CF/afetch?style=social) &ensp;
 <sup>Linux &check; BSD &check; Mac &check;</sup>
 
@@ -281,7 +291,7 @@ Software |
 
 **nitch**  
 `nitch - incredibly fast system fetch written in nim`  
-[<img style="height:200px;" src="https://camo.githubusercontent.com/5ed1daff8db121a3532f17e58f61f6e3aae2a194557778bfd42afaa7186ba218/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3935353336323437373133373336323935342f3939373833393030353436303732353834312f323032322d30372d31365f31352d31355f312e706e67">](https://github.com/unxsh/nitch)  
+[<img style="height:250px;" src="https://camo.githubusercontent.com/5ed1daff8db121a3532f17e58f61f6e3aae2a194557778bfd42afaa7186ba218/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3935353336323437373133373336323935342f3939373833393030353436303732353834312f323032322d30372d31365f31352d31355f312e706e67">](https://github.com/unxsh/nitch)  
 ![](https://img.shields.io/github/stars/unxsh/nitch?style=social) &ensp;
 <sup>Linux &check;</sup>
 
@@ -321,4 +331,19 @@ Software | Hardware
 </div></details>
 <!-- Rust -->
 
-> :information_source: _23 fetch utilities written in 10 different languages_
+> :information_source: _24 fetch utilities written in 10 different languages_
+
+## Contributing
+Fork this repository & edit your version
+
+### Adding a new fetch
+Put new fetches between the `<details>` HTML tags, following the current code formatting. To form code blocks, the lines are terminated with 2 spaces, creating a newline without a gap
+
+Update both correlated counters or all 3 if a new language is added
+
+---
+### Making changes
+Feel free to make any improvements or changes that may benefit the list
+
+---
+Submit a PR, linking any related issues
