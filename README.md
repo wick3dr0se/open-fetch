@@ -9,7 +9,7 @@ An awesome(ly) curated list of open-source information fetch utilities
 
 ### Interpreted
 <!-- sh -->
-<details markdown='1'><summary>sh — Bourne Shell: 4</summary><div align="center">
+<details markdown='1'><summary>sh — Bourne Shell: 5</summary><div align="center">
 
 **NNBnh/bfetch** — system  
 `📠 Dynamic fetch displayer that SuperB`  
@@ -21,6 +21,14 @@ An awesome(ly) curated list of open-source information fetch utilities
 Software |
 ---|
 <sub>OS, WM, shell, term, font</sub> |
+
+---
+**info-mono/diyfetch/diyfetch** — system  
+`🧰📠 The ultimate fetch tool template`  
+[<img style="height:200px;" src="https://user-images.githubusercontent.com/43980777/194534611-7dde5b56-40ef-4989-825d-23375625929e.gif"/>](https://github.com/info-mono/diyfetch)  
+![](https://img.shields.io/github/stars/info-mono/diyfetch?style=social) &ensp;
+![](https://img.shields.io/github/last-commit/info-mono/diyfetch?style=flat-square)  
+<sub>Linux &check;</sub>
 
 ---
 **6gk/fet.sh** — system    
@@ -367,7 +375,7 @@ Software |
 </div></details>
 <!-- Rust -->
 
-> :information_source: _25 fetch utilities written in 10 different languages_
+> :information_source: _26 fetch utilities written in 10 different languages_
 
 ## Contributing
 Fork this repository & edit your version
