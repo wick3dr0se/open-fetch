@@ -23,9 +23,9 @@ Software |
 <sub>OS, WM, shell, term, font</sub> |
 
 ---
-**info-mono/diyfetch/diyfetch** — system  
+**info-mono/diyfetch** — template  
 `🧰📠 The ultimate fetch tool template`  
-[<img style="height:200px;" src="https://user-images.githubusercontent.com/43980777/194534611-7dde5b56-40ef-4989-825d-23375625929e.gif"/>](https://github.com/info-mono/diyfetch)  
+[<img style="height:200px;" src="https://user-images.githubusercontent.com/43980777/188278675-7adca8da-83d5-4e9c-b53e-fdb337a9da11.png#gh-dark-mode-only"/>](https://github.com/info-mono/diyfetch)  
 ![](https://img.shields.io/github/stars/info-mono/diyfetch?style=social) &ensp;
 ![](https://img.shields.io/github/last-commit/info-mono/diyfetch?style=flat-square)  
 <sub>Linux &check;</sub>
