@@ -64,7 +64,7 @@ Software | Hardware
 
 Software | Hardware
 ---|---
-<sub>user, host, OS, host, kernel, uptime, pkgs</sub> | <sub>RAM</sub>
+<sub>user, host, OS, host, kernel, uptime, pkgs, shell</sub> | <sub>RAM</sub>
 
 ---
 </div></details>
