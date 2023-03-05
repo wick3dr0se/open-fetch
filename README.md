@@ -64,7 +64,7 @@ Software | Hardware
 
 Software | Hardware
 ---|---
-<sub>user, host, OS, host, kernel, uptime, pkgs</sub> | <sub>RAM</sub>
+<sub>user, host, OS, host, kernel, uptime, pkgs, shell</sub> | <sub>RAM</sub>
 
 ---
 </div></details>
@@ -323,7 +323,7 @@ Software | Hardware
 <!-- end Nim -->
 
 <!-- Rust -->
-<details markdown='1'><summary>Rust: 4</summary><div align="center">
+<details markdown='1'><summary>Rust: 5</summary><div align="center">
 
 **K4rakara/freshfetch** — system  
 `A fresh take on neofetch`  
@@ -335,6 +335,18 @@ Software | Hardware
 Software | Hardware
 ---|---
 <sub>user, host, OS, kernel, uptime, pkgs, shell, resolution, WM</sub> | <sub>CPU, GPU, RAM</sub>
+
+---
+**Gobidev/pfetch-rs** — system  
+`A rewrite of the pfetch system information tool in Rust`
+[<img style="height:200px;" src="https://user-images.githubusercontent.com/50576978/219375863-579c495d-8db8-4aa9-a4a6-348ecb2c849f.png">](https://github.com/Gobidev/pfetch-rs)  
+![](https://img.shields.io/github/stars/Gobidev/pfetch-rs?style=social) &ensp;
+![](https://img.shields.io/github/last-commit/Gobidev/pfetch-rs?style=flat-square)  
+<sub>Linux &check; BSD &check; Mac &check;</sub>
+
+Software | Hardware
+---|---
+<sub>user, host, OS, host, kernel, uptime, pkgs, shell</sub> | <sub>RAM</sub>
 
 ---
 **Macchina-CLI/macchina** — system  
@@ -375,7 +387,7 @@ Software |
 </div></details>
 <!-- Rust -->
 
-> :information_source: _26 fetch utilities written in 10 different languages_
+> :information_source: _27 fetch utilities written in 10 different languages_
 
 ## Contributing
 Fork this repository & edit your version
