@@ -226,7 +226,7 @@ Software |
 
 Software | Hardware
 ---|---
-<sub>user, host, uptime, OS, arch, kernel, WM, shell, term, pkgs</sub> | <sub>mobo, CPU, GPU, RAM</sub>
+<sub>user, host, uptime, OS, arch, kernel, DE/WM, shell, term, pkgs, BIOS, </sub> | <sub>mobo, CPU, GPU, RAM</sub>
 
 ---
 **Dr-Noob/cpufetch** — cpu  
